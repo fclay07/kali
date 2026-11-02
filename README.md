@@ -1,8 +1,7 @@
 # Rendu du module Outils fondamentaux
 
-**Nom :** ……（à compléter）
-**Groupe :** ……（à compléter）
-
+**Nom :** Kali layan
+**Groupe :** S1B2
 ## Contenu du dépôt
 
 - `tp/` : mes solutions aux six TP du module (`tp1.ipynb` à `tp6.ipynb`), exécutées
@@ -13,7 +12,6 @@
 
 ## Usage de l'intelligence artificielle
 
-*(à compléter honnêtement avant le rendu : indiquer pour quoi un assistant a été
-utilisé — correction d'erreurs, rédaction du projet — et ce qui a été vérifié à
-la main. Conformément à la page d'évaluation, le dire ne coûte pas de points ; le
-cacher, si, et un travail assisté est attendu plus haut.)*
+*Un assistant d'intelligence artificielle a été utilisé pour m'aider dans la réalisation du projet, notamment pour corriger certaines erreurs dans les TP, comprendre les messages d'erreur et améliorer le code du projet.
+
+Les corrections proposées ont été examinées et testées manuellement. J'ai également vérifié le fonctionnement du code en exécutant les différents TP et le projet afin de m'assurer que les résultats étaient corrects.*
